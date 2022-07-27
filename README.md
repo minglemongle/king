@@ -1,1 +1,1 @@
-# minglemongle.github.io/king
+# minglemongle.github.io/king/index.html
