@@ -1,1 +1,1 @@
-# minglemongle1.github.io
+# minglemongle.github.io/king
